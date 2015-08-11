@@ -1,0 +1,1 @@
+this is code for Advanced Programming in the UNIX Environment (Second Edition),typed from the paper book.
